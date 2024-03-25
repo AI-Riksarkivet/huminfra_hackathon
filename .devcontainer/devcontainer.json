@@ -21,7 +21,8 @@
 				"njpwerner.autodocstring",
 				"charliermarsh.ruff",
 				"tamasfe.even-better-toml",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"ms-vsliveshare.vsliveshare"
 			]
             }
         }
