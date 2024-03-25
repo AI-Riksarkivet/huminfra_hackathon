@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "huminfra-hackathon"
+version = "0.1.0"
+description = "Semantic search in historical text"
+authors = ["Borg93 <48671678+Borg93@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
